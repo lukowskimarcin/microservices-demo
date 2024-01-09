@@ -7,3 +7,5 @@ twitter-to-kafka-service/target
 *.class
 common-config/target
 config-server-repository/target
+kafka/target
+*.log
